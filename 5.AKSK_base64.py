@@ -1,0 +1,5 @@
+aksk
+这是测试的aksk，无风险，泄漏不会有风险。。
+
+AccessID=TFRBSTV0RXQyYzhCeTloUTdwOXFCS3JR
+AccessKey=MU52aWhMNG1kZkw5cGlSOWlxTlRWQ1FXclhVRU9l
